@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 ### I'm pursuing an MS from Carnegie Mellon University(CIT), working in Perception and SLAM.
-- I'm currently working with the [Robot Perception Lab](https://rpl.ri.cmu.edu/) at the Robotics Institute. I am working on obect based slam for multi-robot systems and underwater mapping using SONAR.
+- I'm currently working with the [Robot Perception Lab](https://rpl.ri.cmu.edu/) at the Robotics Institute. I am working on object based slam for multi-robot systems and underwater mapping using SONAR.
 - I am also a Graduate Teaching Assistant for [Intro to Deep Learning](https://deeplearning.cs.cmu.edu/F22/index.html).
 - Before this I was a Data Science intern with [Jupiter](https://jupiter.money/) working on FAQ search using NLP.
 - I’m currently looking for roles which will challenge me, I graduate in Dec'22.
