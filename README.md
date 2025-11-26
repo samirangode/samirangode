@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - I’m looking for roles which will challenge me, I graduate in Dec'22.
 
 
-![Visitor Count](https://profile-counter.glitch.me/samirangode/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/samirangode/count.svg) -->
 
 
 
